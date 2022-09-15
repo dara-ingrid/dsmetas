@@ -7,7 +7,7 @@ O DSMeta é um projeto web full-stack desenvolvido na semana **Spring React** da
 O projeto tem como finalidade a apresentação de uma listagem de vendas, com a possibilidade de filtrar o período das vendas e também enviar SMS ao contato destinatário o resumo da venda
 
 # Aplicação
-Link: https://dsmeta-salesms.netlify.app
+![img](https://i.imgur.com/WuHwTkD.jpg)
 
 # Tecnologias utilizadas
 ## Back end
